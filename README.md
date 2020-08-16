@@ -9,6 +9,9 @@
 
 [live demo](https://angular-rest-api-demo.herokuapp.com/)
 
+
+[deploy on heroku](https://medium.com/better-programming/how-to-deploy-your-angular-9-app-to-heroku-in-minutes-51d171c2f0d)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
